@@ -1,0 +1,25 @@
+{
+    "name": "1-java-pack-hadi",
+    "displayName": "1. Java Pack Hadi",
+    "description": "java-pack-hadi",
+    "publisher":"hadi-yahia",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "sohibe.java-generate-setters-getters",
+        "aashish.java-cp-snippets",
+        "youmaycallmev.vscode-java-saber",
+        "madhavd1.javadoc-tools",
+        "redhat.java",
+        "sonarsource.sonarlint-vscode",
+        "vscjava.vscode-java-debug",
+        "vscjava.vscode-java-dependency",
+        "vscjava.vscode-maven",
+        "vscjava.vscode-java-test"
+    ]
+}

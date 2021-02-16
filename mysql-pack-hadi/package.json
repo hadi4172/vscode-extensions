@@ -1,0 +1,20 @@
+{
+    "name": "1-mysql-pack-hadi",
+    "displayName": "1. MySQL Pack Hadi",
+    "description": "mysql-pack-hadi",
+    "publisher":"hadi-yahia",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "mtxr.sqltools",
+        "adpyke.vscode-sql-formatter",
+        "sadeghpm.sql-snippets",
+        "mtxr.sqltools-driver-mysql",
+        "eplak.vscode-uppercasesql"
+    ]
+}

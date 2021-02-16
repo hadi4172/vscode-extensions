@@ -1,0 +1,22 @@
+{
+    "name": "1-c-cpp-pack-hadi",
+    "displayName": "1. C/C++ Pack Hadi",
+    "description": "react-native-pack-hadi",
+    "publisher":"hadi-yahia",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "harry-ross-software.c-snippets",
+        "jeff-hykin.better-cpp-syntax",
+        "ms-vscode.cpptools",
+        "danielpinto8zz6.c-cpp-project-generator",
+        "hars.cppsnippets",
+        "xaver.clang-format",
+        "ajshort.include-autocomplete"
+    ]
+}

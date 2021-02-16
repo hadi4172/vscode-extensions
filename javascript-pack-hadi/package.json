@@ -1,0 +1,19 @@
+{
+    "name": "1-javascript-pack-hadi",
+    "displayName": "1. JavaScript Pack Hadi",
+    "description": "javascript-pack-hadi",
+    "publisher":"hadi-yahia",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "deepscan.vscode-deepscan",
+        "bashmish.es6-string-css",
+        "tobermory.es6-string-html",
+        "olback.es6-css-minify"
+    ]
+}

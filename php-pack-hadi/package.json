@@ -1,0 +1,18 @@
+{
+    "name": "1-php-pack-hadi",
+    "displayName": "1. PHP Pack Hadi",
+    "description": "php-pack-hadi",
+    "publisher":"hadi-yahia",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "rifi2k.format-html-in-php",
+        "bmewburn.vscode-intelephense-client",
+        "tysonandre.php-phan"
+    ]
+}

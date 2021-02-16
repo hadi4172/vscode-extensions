@@ -1,0 +1,5 @@
+Installer yoeman : npm install -g yo generator-code
+Créer projet VS Code : yo code
+Emballer projet (package) : vsce package
+
+Puis installer le VSIX résultant
