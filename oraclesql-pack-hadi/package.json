@@ -1,6 +1,6 @@
 {
     "name": "1-oraclesql-pack-hadi",
-    "displayName": "1. Oracle SQL Pack Hadi",
+    "displayName": ".1 Oracle SQL Pack Hadi",
     "description": "oraclesql-pack-hadi",
     "publisher":"hadi-yahia",
     "version": "0.0.1",
@@ -13,6 +13,8 @@
     "extensionPack": [ 
         "oracle.oracledevtools",
         "mp.vscode-oracle-format",
-        "casian.plsql"
+        "casian.plsql",
+        "xyz.plsql-language",
+        "eplak.vscode-uppercasesql"
     ]
 }

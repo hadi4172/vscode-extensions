@@ -1,9 +1,9 @@
 {
     "name": "1-javascript-pack-hadi",
-    "displayName": "1. JavaScript Pack Hadi",
+    "displayName": ".1 JavaScript Pack Hadi",
     "description": "javascript-pack-hadi",
     "publisher":"hadi-yahia",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.52.0"
     },
@@ -14,6 +14,9 @@
         "deepscan.vscode-deepscan",
         "bashmish.es6-string-css",
         "tobermory.es6-string-html",
-        "olback.es6-css-minify"
+        "olback.es6-css-minify",
+        "ms-vscode.vscode-typescript-next",
+        "akamud.vscode-javascript-snippet-pack",
+        "sburg.vscode-javascript-booster"
     ]
 }
