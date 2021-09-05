@@ -14,9 +14,13 @@
         "deepscan.vscode-deepscan",
         "bashmish.es6-string-css",
         "tobermory.es6-string-html",
+        "zjcompt.es6-string-javascript",
         "olback.es6-css-minify",
         "ms-vscode.vscode-typescript-next",
         "akamud.vscode-javascript-snippet-pack",
-        "sburg.vscode-javascript-booster"
+        "sburg.vscode-javascript-booster",
+        "hwencc.html-tag-wrapper",
+        "zignd.html-css-class-completion",
+        "esbenp.prettier-vscode"
     ]
 }

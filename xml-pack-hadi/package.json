@@ -1,0 +1,17 @@
+{
+    "name": "1-xml-pack-hadi",
+    "displayName": ".1 XML Pack Hadi",
+    "description": "xml-pack-hadi",
+    "publisher":"hadi-yahia",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "redhat.vscode-xml",
+        "dotjoshjohnson.xml"
+    ]
+}
