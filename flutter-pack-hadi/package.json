@@ -1,0 +1,24 @@
+{
+    "name": "1-flutter-pack-hadi",
+    "displayName": ".1 Flutter Pack Hadi",
+    "description": "flutter-pack-hadi",
+    "publisher":"hadi-yahia",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "felixangelov.bloc",
+        "gornivv.vscode-flutter-files",
+        "nash.awesome-flutter-snippets",
+        "dart-code.dart-code",
+        "dart-code.flutter",
+        "aksharpatel47.vscode-flutter-helper",
+        "marcelovelasquez.flutter-tree",
+        "alexisvt.flutter-snippets",
+        "esskar.vscode-flutter-i18n-json"
+    ]
+}
