@@ -1,0 +1,18 @@
+{
+    "name": "1-super-pack-hadi",
+    "displayName": ".1 Super Pack Hadi",
+    "description": "super-pack-hadi",
+    "publisher":"hadi-yahia",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "github.copilot",
+        "tabnine.tabnine-vscode",
+        "visualstudioexptteam.vscodeintellicode"
+    ]
+}
