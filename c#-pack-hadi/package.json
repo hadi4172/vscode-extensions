@@ -3,7 +3,7 @@
     "displayName": ".1 C# Pack Hadi",
     "description": "csharp-pack-hadi",
     "publisher":"hadi-yahia",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.52.0"
     },
@@ -22,6 +22,14 @@
         "mfery.dotnetexplorer",
         "matijarmk.dotnet-core-commands",
         "kishoreithadi.dotnet-core-essentials",
-        "simonsiefke.prettier-vscode"
+        "simonsiefke.prettier-vscode",
+        "kevinkyang.auto-comment-blocks",
+        "avmiya.c-sharp-accessor-generator",
+        "vain0x.csharp-gen-ctor",
+        "roadsidejesus.csharp-helper",
+        "richardzampieriprog.csharp-snippet-productivity",
+        "josefpihrt-vscode.roslynator",
+        "yagoluiz.sonar-dotnet-vscode",
+        "craigthomas.supersharp"
     ]
 }
