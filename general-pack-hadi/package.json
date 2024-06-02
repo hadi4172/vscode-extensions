@@ -10,7 +10,7 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
+    "extensionPack": [
         "kevinkyang.auto-comment-blocks",
         "formulahendry.auto-rename-tag",
         "alefragnani.Bookmarks",
@@ -53,6 +53,11 @@
         "funkyremi.vscode-google-translate",
         "edwardhjp.vscode-author-generator",
         "vscode-icons-team.vscode-icons",
-        "tomoki1207.pdf"
+        "tomoki1207.pdf",
+        "osxzxso.directory-visualizer",
+        "HyperCatcher.copy-for-llm",
+        "GuodongSun.vscode-git-cruise",
+        "letmaik.git-tree-compare",
+        "jakob101.RelativePath"
     ]
 }

@@ -1,0 +1,25 @@
+{
+    "name": "1-python-pack-hadi",
+    "displayName": ".1 Python Pack Hadi",
+    "description": "python-pack-hadi",
+    "publisher":"hadi-yahia",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ms-toolsai.jupyter-keymap",
+        "ms-python.vscode-pylance",
+        "ms-python.isort",
+        "ms-toolsai.jupyter",
+        "ms-pyright.pyright",
+        "ms-python.python",
+        "donjayamanne.python-environment-manager",
+        "njqdev.vscode-python-typehint",
+        "littlefoxteam.vscode-python-test-adapter",
+        "SonarSource.sonarlint-vscode"
+    ]
+}
