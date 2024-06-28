@@ -58,6 +58,7 @@
         "HyperCatcher.copy-for-llm",
         "GuodongSun.vscode-git-cruise",
         "letmaik.git-tree-compare",
-        "jakob101.RelativePath"
+        "jakob101.RelativePath",
+        "alcyon-dev.git-skip"
     ]
 }
